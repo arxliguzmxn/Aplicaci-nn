@@ -1,0 +1,13 @@
+D:\3 B\aplicación\aplicación\obj\Debug\aplicación.csproj.AssemblyReference.cache
+D:\3 B\aplicación\aplicación\obj\Debug\aplicación.Form1.resources
+D:\3 B\aplicación\aplicación\obj\Debug\aplicación.formularios.FormaEstudiantes.resources
+D:\3 B\aplicación\aplicación\obj\Debug\aplicación.Properties.Resources.resources
+D:\3 B\aplicación\aplicación\obj\Debug\aplicación.csproj.GenerateResource.cache
+D:\3 B\aplicación\aplicación\obj\Debug\aplicación.csproj.CoreCompileInputs.cache
+D:\3 B\aplicación\aplicación\bin\Debug\aplicación.exe.config
+D:\3 B\aplicación\aplicación\bin\Debug\aplicación.exe
+D:\3 B\aplicación\aplicación\bin\Debug\aplicación.pdb
+D:\3 B\aplicación\aplicación\obj\Debug\aplicación.exe
+D:\3 B\aplicación\aplicación\obj\Debug\aplicación.pdb
+D:\3 B\aplicación\aplicación\obj\Debug\aplicación.formularios.Regístrate.resources
+D:\3 B\aplicación\aplicación\obj\Debug\aplicación.formularios.ClubDeLaEscuela.resources
